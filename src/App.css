@@ -1,0 +1,18 @@
+.App{
+  background-color: #43EE87;
+  text-align: center;
+  border: 2px 2px black solid;
+  box-shadow: 5px 5px black;
+  border-radius:50% ;
+  width: 100px;
+  height:100px;
+  
+}
+body{
+  background-color: blue;
+}
+h2{
+  color: chocolate;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 30px;
+}
